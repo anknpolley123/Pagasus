@@ -15,9 +15,15 @@ Pegasus is an advanced security auditing and network discovery suite. It is desi
 
 ## 🛠️ Installation & Usage
 
-### 1. Clone the Repository
+### Setup And Run It
 ```bash
-git clone [https://github.com/anknpolley123/Pegasus.git](https://github.com/anknpolley123/Pegasus.git)
+git clone https://github.com/anknpolley123/Pegasus.git
 cd Pegasus
 chmod +x Pagasus.sh
 ./Pagasus.sh
+# After Installing Dependencies, If Pegasus not start then run it manually.
+python3 pegasus_v_1.3.py #latest version
+#Run Older Version
+python3 pegasusV-1.2.py # Version 1.2
+python3 pegasus_v1.1.py # Version 1.1
+
