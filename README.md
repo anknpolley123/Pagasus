@@ -7,6 +7,7 @@
 Pegasus is an advanced security auditing and network discovery suite. It is designed to simplify the deployment of security environments by automating dependency management and providing a unified execution interface through a Python Virtual Environment (venv).
 ![Screenshot_20260329_140920_Termux](https://github.com/user-attachments/assets/3aa0aeeb-b222-4c75-8ed9-f6dec16761e3)
 ![Screenshot_20260329_140957_Termux](https://github.com/user-attachments/assets/fcc10090-095d-4210-9aed-307c1717df4a)
+![Screenshot_20260329_140940_Termux](https://github.com/user-attachments/assets/da9a6109-b07d-4d22-b61e-0713e7ee4509)
 
 ## 🚀 Features
 - **Automated Setup**: One-click installation of system and Python dependencies using `Pagasus.sh`.
