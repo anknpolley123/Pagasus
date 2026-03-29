@@ -5,6 +5,8 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20|%20Android-orange)
 
 Pegasus is an advanced security auditing and network discovery suite. It is designed to simplify the deployment of security environments by automating dependency management and providing a unified execution interface through a Python Virtual Environment (venv).
+![Screenshot_20260329_140920_Termux](https://github.com/user-attachments/assets/3aa0aeeb-b222-4c75-8ed9-f6dec16761e3)
+![Screenshot_20260329_140957_Termux](https://github.com/user-attachments/assets/fcc10090-095d-4210-9aed-307c1717df4a)
 
 ## 🚀 Features
 - **Automated Setup**: One-click installation of system and Python dependencies using `Pagasus.sh`.
